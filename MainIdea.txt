@@ -1,0 +1,102 @@
+Main Idea
+	Régimen interior
+		¿Hay control nocturno en la academia?
+		¿Cuales son las funciones del sargento de cuartel?
+		¿Cuales son las funciones para los alumnos en el servicio de guardia de seguridad?
+		Preguntas (muchas) acerca de las normas de régimen interior.
+		¿Se hacen guardias en la academia?
+	Horarios/Planes
+		Horarios de emies
+		Cuando van a ser las próximas maniobras?
+		Previsión estimada de los servicios de orden  o de seguridad del acuartelamiento
+		¿ Hoy hay autobús a la estación de tren?
+		Que uniformidad para el desfile del dia tal...
+		Que horarios tengo en la academia como alumno
+		Que clase tengo mañana?
+		¿Que horario tenemos hoy?¿Esta semana?
+		Dónde voy a salir destinado?
+		"Calendario del curso lectivo,con festivos, vacaciones."
+		Cuál es el horario de la plana mayor de dirección para el personal de la Academia?
+		¿A qué hora cierra el bar de la academia?
+		Necesito el horario de clases de la semana próxima para el curso de 3° EMIES de Automoción.
+	Procedimientos/Normativa
+		Cuál es el plazo para solicitar una salida de una unidad por terrenos no militares?
+		Que documentación necesito para la ayuda de la vivienda en la academia.
+		Cuál es el plazo para solicitar el uso del campo de tiro valdearenas?
+		¿Cuándo puedo presentar el pasaporte/dietas?
+		Como conseguir el externado en la academia
+		Como iniciar un expediente de baja de material?
+		"Soy alumno del Curso de Cambio de Especialidad, ¿si soy sancionado aparece en mi hoja de servicios?"
+		¿ Pasos a seguir para solicitar la ayuda a la vivienda?
+		Que documentación necesito para solicitar la ayuda a la vivienda
+		Cómo me apunto al test general de la condición física?
+		¿Como hacer un pasaporte?
+		Cómo pido un pasaporte?
+		¿Qué ocurre si doy positivo en el control de drogas (PADET)?
+		"Temas administrativos, sobre empadronamiento, externados, becas de estudios, etc."
+		Que tramites debo realizar para solicitar la cancelación de notas desfavorables  mi Historial Militar ( sanciones).
+		Como solicitar autobuses civiles para transporte civil?
+		Como solicitar material no reglamentario MATNOREG?
+		Donde debo apuntarme para recibir información del boletín oficial de Defensa
+		¿Cómo se coloca el correaje para llevar el sable?
+		Cómo pedir la ayuda a la vivienda
+		Como solicitó la baja del programa CONSIGUE+
+		Puedo pedir algún permiso por asuntos familiares siendo alumno
+		Como solicitar transporte con medios de la ACLOG?
+		Cuando debo Solicitar una Acreditación Personal de Seguridad (HPS)
+		Como tramito la documentación del pasaporte del curso.
+		Que papeles necesito para solicitar el externado?
+		"Si requiero un certificado de analítica de ""drogas"" firmado por mi Jefe de Unidad como debo solicitarlo."
+		¿Se puede vivir fuera de la academia mientras se realiza el curso?
+		Que trámites son necesarios para solicitar mi HPS
+		Cómo puedo ejercer los Derechos recogidos en la la Ley Orgánica de Protección de Datos Personales y Garantías Digitales en temas relacionados con mi condición de militar de ET.
+	Acogida
+		¿Cuáles son los requisitos que necesitamos para poder vivir fuera de la academia mientras se realiza el curso?
+		Como funciona la sanidad o centros médicos
+		Como pasar revista de armas particulares?
+		¿Qué documentación/fotocopias debo tener a mano en cualquier momento?
+		Donde está el aula 212?
+		"Servicios que tiene la academia. Por ejemplo, gimnasio, pista pádel, lavandería, etc. "
+		¿Horario de acceso a la piscina de Calatayud como parte de la aclog?
+		¿Qué cuadro de mandos/jefes voy a tener cuando llegue a la ACLOG?
+		¿Se pagan las comidas en la academia?
+		"¿Puedo vivir fuera de la academia, que limitación tengo para pernoctar fuera? "
+		"¿Además de la OFAP, donde podemos asistir para acceder a la INTRANET si la OFAP se encuentra cerrada?"
+		¿Qué material/equipo/uniforme debo de llevar a la ACLOG?
+		Cómo llegar a la academia y que hay cerca de ella.
+		Zonas que visitar en la comarca de Calatayud
+		Nombre de mandos y profesores
+		¿Se puede ser externado en la academia?
+		"Ante cualquier duda, ¿A quién debo dirigirme?"
+	Estudios
+		¿Cuándo comienza el plazo de inscripciones para el Procedimiento de Acreditación de Competencias en Aragón?
+		¿Podré Convalidar algún modulo superado anteriormente?
+		Cuanto tiempo de permanencia me exige el cambio de especialidad
+		"Al finalizar el Curso de Cambio de Especialidad, ¿puedo presentarme a exámenes por libre en institutos de Formación Profesional?"
+		Tema convalidaciones de estudios
+		"Quiero solicitar mi título oficial, donde lo pido"
+		Cuantos puntos necesito para aprobar la permanencia
+		¿Si no me gusta mi especialidad puedo causar baja antes de terminarlo?
+		¿Qué documentación es necesaria para la convalidación del TTS?
+		Cuantas horas tiene cada TTS
+		Cómo se obtiene la nota final del módulo X?
+		¿Si no supero el Cambio de especialidad que ocurre?
+		Como convalidar un módulo del curso
+		Como puedo convalidar asignaturas de lo civil a lo militar
+		"Dónde puedo encontrar los contenidos, presentaciones y manuales del módulo X?"
+		Como puedo convalidar mis estudios militares a lo civil
+		Que asignatura tiene cada TTS
+		"Si tengo en posesión el título que se va a impartir en la academia, ¿Tengo que volver ha estudiarlo?"
+		Que TTS se estudian en la Academia de logística
+		"Si tenemos el módulo entero convalidado, ¿Tenemos que asistir a las clases o podemos quedarnos en las camaretas estudiando otra asignatura, por ejemplo inglés?"
+		"Dudas sobre contenido de mis asignaturas del ciclo de grado superior, en este caso automoción o inglès."
+		Cuántas horas lectivas tiene el módulo X ?
+		¿En que especialidad del cambio de especialidad se estudia más?
+		¿Cuantas convocatorias tienen los alumnos para superar las pruebas fisicas?
+		"Si pido la baja del curso, ¿cuánto dinero debo resarcir al Estado?"
+		Cómo puedo contactar con el profesor X?
+		Donde puedo ver mis calificaciones
+		Como pido un certificado de estudios realizados.
+	Otros
+		"Entrenamiento de Educación Física o de musculación, carrera, etc. personalizado"
+		"Ayudas que puedo pedir en la aclog y como pedirlas (becas, ayudas, descuentos etc)"
